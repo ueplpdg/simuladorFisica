@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>📘 Física Interactiva - Preuniversitario Tesla</title>
+    <title>📘 Física Interactiva - Preuniversitario Tesla </title>
     <!-- MathJax para fracciones y notación perfecta -->
     <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <style>
